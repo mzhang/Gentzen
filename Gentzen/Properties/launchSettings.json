@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "TestAPIProject": {
+    "Gentzen": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
